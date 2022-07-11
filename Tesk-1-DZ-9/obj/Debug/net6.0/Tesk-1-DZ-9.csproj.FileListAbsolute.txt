@@ -1,0 +1,15 @@
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.csproj.AssemblyReference.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.AssemblyInfoInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.AssemblyInfo.cs
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.csproj.CoreCompileInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\bin\Debug\net6.0\Tesk-1-DZ-9.exe
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\bin\Debug\net6.0\Tesk-1-DZ-9.deps.json
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\bin\Debug\net6.0\Tesk-1-DZ-9.runtimeconfig.json
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\bin\Debug\net6.0\Tesk-1-DZ-9.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\bin\Debug\net6.0\Tesk-1-DZ-9.pdb
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\refint\Tesk-1-DZ-9.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.pdb
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\Tesk-1-DZ-9.genruntimeconfig.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ9.md\Tesk-1-DZ-9\obj\Debug\net6.0\ref\Tesk-1-DZ-9.dll
